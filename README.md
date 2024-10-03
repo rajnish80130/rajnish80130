@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnish80130&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish80130" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnish80130" alt="rajnish80130" /></a> </p>
 
