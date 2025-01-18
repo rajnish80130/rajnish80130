@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rajnish Patel</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 
 
